@@ -1,0 +1,15 @@
+{
+    "llm_provider": "openai",
+    "llm_api_key": "sk-sfg8nsj251etautp4zj03q0md7qoirh2s5rdl9fjgrrm6maw",
+    "llm_auth_mode": "bearer",
+    "llm_url": "https://api.xiaomimimo.com/v1",
+    "llm_model": "mimo-v2.5",
+    "stt_engine": "whisper",
+    "stt_model": "base",
+    "stt_language": "en",
+    "tts_engine": "edgetts",
+    "tts_voice": "en-US-GuyNeural",
+    "startup_briefing_enabled": false,
+    "dashboard_enabled": false,
+    "os_system": "windows"
+}
